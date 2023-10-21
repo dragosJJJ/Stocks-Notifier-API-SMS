@@ -9,7 +9,7 @@ API_KEY_STOCK_PRICE = "KMFZ786EMGIPOS4K"
 API_KEY_STOCK_NEWS = "9b8607b85c5c4c98843a15d217951f74"
 
 account_sid = 'AC2117b51f874d6c08512bcecf36601b40'
-auth_token = '[authtoken]'
+auth_token = '(authtoken)'
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
